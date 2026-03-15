@@ -1,0 +1,5 @@
+{
+  "name": "Vectorize - PNG to SVG Converter",
+  "description": "A powerful, client-side PNG to SVG vectorization tool with real-time preview and customization.",
+  "requestFramePermissions": []
+}
